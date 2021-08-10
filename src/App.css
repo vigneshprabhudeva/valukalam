@@ -1,0 +1,10 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 15;
+	font-family: "PT Sans", sans-serif;
+}
+.book {
+	align-content: center;
+	border: 2px solid red;
+}
